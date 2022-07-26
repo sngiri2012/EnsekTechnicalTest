@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekTechnicalTest", "EnsekTechnicalTest.csproj", "{D40E2AE2-6A0D-435A-A861-B7E5F50FF694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40E2AE2-6A0D-435A-A861-B7E5F50FF694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40E2AE2-6A0D-435A-A861-B7E5F50FF694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40E2AE2-6A0D-435A-A861-B7E5F50FF694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40E2AE2-6A0D-435A-A861-B7E5F50FF694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24008A92-DA2D-4296-8A3E-AA72EE988C40}
+	EndGlobalSection
+EndGlobal
